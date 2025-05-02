@@ -4,7 +4,7 @@
 #### By **Victor Mwenda**
 
 ## Setup/Installation Requirements
-* Download the Power Bi file by selecting Day 2 - Logistics
+* Download the Power Bi file by selecting 'Day 2 - Logistics.pbix'
 
 ## Known Bugs
 There are no known bugs at the time of completion
