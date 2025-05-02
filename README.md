@@ -5,6 +5,7 @@
 
 ## Setup/Installation Requirements
 * Download the Power Bi file by selecting 'Day 2 - Logistics.pbix'
+* Select View Raw
 
 ## Known Bugs
 There are no known bugs at the time of completion
